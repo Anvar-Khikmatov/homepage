@@ -258,6 +258,13 @@ main {
     letter-spacing: 3px;
 }
 
+.link-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin-top: 0.2rem;
+}
+
 .about-me-text,
 .projects-text,
 .project-name {
