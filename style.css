@@ -333,7 +333,7 @@ main {
 
 .project-grid-wrapper {
     display: grid;
-    grid-template-rows: repeat(2, 20rem);
+    grid-template-rows: repeat(2, 23rem);
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
 }
@@ -638,7 +638,7 @@ footer {
     .project-grid-wrapper {
         display: grid;
         grid-template-columns: 1fr;
-        grid-template-rows: repeat(6, 18rem);
+        grid-template-rows: repeat(6, 20rem);
     }
 
     .projects-text {
@@ -785,7 +785,7 @@ footer {
 
     .project-grid-wrapper {
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(3, 18rem);
+        grid-template-rows: repeat(3, 20rem);
         gap: 1.2rem;
     }
 
