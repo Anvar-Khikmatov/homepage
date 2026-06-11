@@ -2,9 +2,9 @@
 
 ## About
 
-Personal developer portfolio highlighting 6 projects across full-stack, systems programming, DSA, and frontend. Built from scratch without frameworks — focuses on clean semantics, responsive layout, and accessibility.
+Personal developer portfolio highlighting 7 projects across full-stack, systems programming, DSA, and frontend. Built from scratch without frameworks - focuses on clean semantics, responsive layout, and accessibility.
 
-**Live site:** [anvar-khikmatov.github.io/homepage](https://anvar-khikmatov.github.io/homepage)
+**Live site:**  [View](https://anvar-cv.vercel.app/)
 
 ---
 
@@ -28,6 +28,7 @@ Personal developer portfolio highlighting 6 projects across full-stack, systems 
 | BookHaven Library | Frontend · OOP | localStorage, CSS Grid |
 | printf Implementation | Systems · C | Variadic functions, memory management |
 | BST Library | DSA · Algorithms | Recursion, tree traversals |
+| CV Builder | React · Vite | html2pdf |
 | Caravan Kitchen | SPA · Vanilla JS | ES6 Modules, DOM API |
 
 📌 *Each project has its own README with setup instructions.*
